@@ -1,4 +1,4 @@
-package util
+package faygo_auth
 
 import (
 	"encoding/base64"

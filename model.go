@@ -1,4 +1,4 @@
-package model
+package faygo_auth
 
 //Authorization Token Model
 type Authorization struct {

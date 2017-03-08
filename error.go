@@ -1,4 +1,4 @@
-package error
+package faygo_auth
 
 type baseError struct {
 	msg string
